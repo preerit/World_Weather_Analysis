@@ -7,9 +7,11 @@ Task:
 * From the list of potential travel destinations, the beta tester will choose four cities to create a travel itinerary
 * Finally, using the Google Maps Directions API, create a travel route between the four cities as well as a marker layer map.
 
-Purpose: PlanMyTrip will use the data to recommend ideal hotels based on clients' weather preferences.
+Purpose: 
+* PlanMyTrip will use the data to recommend ideal hotels based on clients' weather preferences.
 
-Method: Create a Pandas DataFrame with 500 or more of the world's unique cities and their weather data in real time. This process will entail collecting, analyzing, and visualizing the data.
+Method: 
+Create a Pandas DataFrame with 500 or more of the world's unique cities and their weather data in real time. This process will entail collecting, analyzing, and visualizing the data.
 
 The analysis is done in 3 stages:
 Collect the Data
